@@ -1,0 +1,1 @@
+# node-ex-type-mongo
